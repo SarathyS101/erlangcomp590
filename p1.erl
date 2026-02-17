@@ -1,6 +1,6 @@
 -module(p1).
 -export([p1/0, factorial/1]).
--team("Sarathy Selvam, PID: 730770538").
+-team("Sarathy Selvam, PID: 730770538", "Lakshin Ganesha, PID:730757493").
 p1() ->
     {ok, Num} = io:read("Enter a number for computation: "),
     if
