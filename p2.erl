@@ -1,6 +1,6 @@
 -module(p2).
 -export([p2/0]).
--team("Sarathy Selvam, PID: 730770538", "Lakshin Ganesha, PID:730757493").
+-team("Sarathy Selvam, PID: 730770538 , Lakshin Ganesha, PID:730757493").
 p2() ->
     io:format("Enter 0 to exit~n"),
     p1().
